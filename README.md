@@ -77,12 +77,13 @@
   - Создание канала: 720 999 360 Гбит/c = 721 Пбит/с
   
   Значение RPS:
+  Пиковая аудитория: 80 ед / 24 (часов в сутках) = 3.333 ед; 3.333 = DAU; Пик = 7.5 ед, то есть примерно в 2 раза больше DAU. [^10]
   
   | Запрос      | RPS             | RPS в пике            |
-  |---------------|-----------------|
-  | Регистрация         | 4.7 | 28,8  |
-  | Отправка сообщения | 12 474.5   | 77 129  |
-  | Создание канала | 2.2     | 13,6     |
+  |---------------|-----------------|-----------------|
+  | Регистрация         | 28,8  | 57,6  |
+  | Отправка сообщения | 77 129   | 154 258  |
+  | Создание канала | 13,6      | 27,2     |
 
 Источники:
 [^1]:  https://www.demandsage.com/telegram-statistics/
@@ -93,6 +94,7 @@
 [^6]:  https://tgstat.com/
 [^7]:  https://inclient.ru/telegram-stats/#telegram11  
 [^8]:  https://backlinko.com/whatsapp-users#number-of-whats-app-messages-sent-globally-per-day 
-[^9]:  https://usesignhouse.com/blog/telegram-stats/#how-many-channels-are-there-on-telegram
+[^9]:  https://usesignhouse.com/blog/telegram-stats/#how-many-channels-are-there-on-telegram 
+[^10]: https://semantica-media.ru/blog/luchshee-vremya-dlya-postov-kogda-luchshe-vykladyvat-kontent-v-soczsetyah.html
 
 
