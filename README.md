@@ -338,7 +338,7 @@ Channel_subscriptions:
 
 ### Схема
 
-![image](https://github.com/user-attachments/assets/0a91dd66-0bab-409b-87ec-0300ada31439)
+![image](https://github.com/user-attachments/assets/6220116b-52aa-4e53-8462-ba391cea2dca)
 
 
 
