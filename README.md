@@ -561,10 +561,7 @@ Kubernetes использует механизмы репликации, Statefu
 
 ## 10. Архитектура
 
-![image](https://github.com/user-attachments/assets/9b2026a2-9ed0-4251-8b11-621b0361c9cd)
-
-
-
+![image](https://github.com/user-attachments/assets/9643c386-a3ca-4335-a731-06769b083194)
 
 
 
