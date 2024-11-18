@@ -561,9 +561,13 @@ Kubernetes использует механизмы репликации, Statefu
 
 ## 10. Архитектура
 
-![image](https://github.com/user-attachments/assets/9643c386-a3ca-4335-a731-06769b083194)
+![image](https://github.com/user-attachments/assets/831120fe-d4ef-4f8f-ba40-8b47b973a4a3)
 
 
+1. Регистрация: пользователь вводит свой номер телефона. Отправляется запрос на Auth. Auth проверяет уникальность номера телефона в базе данных, создает запись о пользователе в БД. Заводит сессию в Redis. При регистрации MTProto сохраняет auth_key, связанный с конкретным user_id и сохраняет его в БД.
+2. Авторизация:
+3. 
+4. 
 
 Источники:
 [^1]:  https://www.demandsage.com/telegram-statistics/
