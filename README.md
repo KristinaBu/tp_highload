@@ -691,10 +691,10 @@ CPU: Для логики средней сложности для Golang взя�
 
 | Сервис	| Конфигурация	 | Аренда |
 |---|---|---|
-| Kube node	| 2U/2xAMD EPYC 7513/2x32GB/4xNVMe4T/2x25Gb/s  | 1385.99 |
+| Kube node	| 64GB/NVMe256GB/10Gb/s | $298 |
 | Redis	| 1U/1xAMD EPYC 7302P/1x32GB/1xNVMe256G/2x10Gb/s | 	$500 |
-| Cassandra	| 2х6338/16x32GB/NVMe4T/25Gb/s	 | $241 |
-| S3	| 2х6338/16x32GB/NVMe4T/25Gb/s	 | $241 |
+| Cassandra	| 2х6338 16x32GB/NVMe4T/25Gb/s	 | $2 000 |
+| S3	| 2х6338 16x32GB/NVMe4T/25Gb/s	 | $2 000 |
 
 Источники:
 [^1]:  https://www.demandsage.com/telegram-statistics/
